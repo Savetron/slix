@@ -1,53 +1,50 @@
 ---
-theme: seriph
-layout: cover
-background: https://images.unsplash.com/photo-1530819568329-97653eafbbfa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2092&q=80
-themeConfig:
-  primary: '#4d7534'
-title: AI Destekli Sunum Oluşturucu
+theme: default
 ---
+yapay zeka ve yazılım
+---
+# Yapay Zeka ve Yazılım
 
-# Hoş Geldiniz 👋  
-Bu sunum, Gemini API ve Slidev entegrasyonuyla oluşturulmuş yapay zekâ destekli bir sunum platformunu tanıtmaktadır.
+Yapay zeka, yazılım geliştirme süreçlerini ve yeteneklerini dönüştürüyor. Bu sunum, yapay zeka ve yazılım arasındaki ilişkiye genel bir bakış sunmaktadır.
 
 ---
+# Yapay Zeka Destekli Yazılım Geliştirme
 
-# Proje Amacı 🎯  
-Kullanıcının yalnızca bir konu başlığı girerek, hiçbir teknik bilgiye sahip olmadan kendi sunumunu oluşturabilmesini sağlamak.
-
----
-
-# Nasıl Çalışır ⚙️  
-1. Kullanıcı konu başlığı girer  
-2. Gemini API, ilgili slaytları üretir  
-3. Slidev formatında markdown oluşturulur  
-4. Slaytlar canlı olarak platformda gösterilir
+Yapay zeka, kod üretme, hata ayıklama ve test etme gibi görevleri otomatikleştirerek yazılım geliştirmeyi hızlandırır ve verimliliği artırır.
 
 ---
+# Akıllı Uygulamalar
 
-# Teknolojiler 🛠  
-- Gemini AI  
-- Slidev  
-- Next.js  
-- Tailwind CSS  
-- Vite + Vue (Slidev altyapısı)
+Yapay zeka, kişiselleştirilmiş deneyimler, akıllı öneriler ve gelişmiş otomasyon gibi özellikler sunan akıllı uygulamaların geliştirilmesini sağlar.
 
 ---
+# Yapay Zeka ile Kod Üretimi
 
-# Neden Slidev? 🚀  
-- Markdown tabanlı  
-- Geliştirici dostu  
-- Tema desteği  
-- Vue entegrasyonu ile esneklik
+GitHub Copilot gibi araçlar, geliştiricilere kod önerileri sunarak ve tekrarlayan kodlama görevlerini otomatikleştirerek verimliliği artırır.
 
 ---
+# Yapay Zeka ile Test Etme
 
-# Sonuç ✅  
-Bu platform sayesinde herkes kendi profesyonel sunumunu dakikalar içinde oluşturabilir.  
-Hiçbir dış uygulamaya ihtiyaç yok – her şey tek yerde.
+Yapay zeka, yazılım testlerinde otomasyon sağlayarak hataları daha hızlı ve verimli bir şekilde tespit etmeye yardımcı olur.
 
 ---
+# Yapay Zeka ve Yazılım Güvenliği
 
-# Teşekkürler 🙏  
-Sorularınız varsa bize ulaşın:  
-[www.ornekplatform.com](https://www.ornekplatform.com)
+Yapay zeka, yazılım güvenliği açıklarını tespit ederek ve siber saldırıları önleyerek güvenlik önlemlerini güçlendirir.
+
+---
+# Etik Hususlar
+
+Yapay zeka ve yazılım geliştirme süreçlerinde etik hususlar ve olası önyargılar göz önünde bulundurulmalıdır.
+
+---
+# Geleceğin Yazılımı
+
+Yapay zeka, yazılımın geleceğini şekillendirmede önemli bir rol oynamaya devam edecek ve daha akıllı, daha verimli ve daha kullanıcı dostu uygulamaların geliştirilmesine olanak sağlayacaktır.
+
+---
+# Kaynaklar
+
+Daha fazla bilgi için yapay zeka ve yazılım geliştirme ile ilgili kaynakları inceleyebilirsiniz.
+
+---
